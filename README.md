@@ -1,2 +1,2 @@
 # compras-pos
-sistema compras angular laravel.
+sistema compras angular 9 laravel.
